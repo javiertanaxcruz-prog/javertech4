@@ -1,0 +1,18 @@
+packages:
+  "framer-motion": "For premium, Apple-like smooth reveal animations on scroll"
+  "@radix-ui/react-accordion": "For the FAQ section accordion component"
+  "@radix-ui/react-slot": "For shadcn/ui button component composition"
+  "clsx": "For Tailwind class merging utilities"
+  "tailwind-merge": "For Tailwind class merging utilities"
+
+images:
+  - path: "artifacts/techbyjaver/public/images/hero-bg.png"
+    description: "Ultra-minimal abstract white and light silver 3D mesh gradient background, very subtle, Apple style"
+    aspect_ratio: "16:9"
+  - path: "artifacts/techbyjaver/public/images/gen-z-mockup.png"
+    description: "Sleek dark mode mobile app mockup floating on a deep navy blue background, showing a modern social media platform interface with a cinematic light reflection"
+    aspect_ratio: "1:1"
+
+notes:
+  - "This is a purely static, single-page frontend. No API calls or backend infrastructure are required."
+  - "The site uses smooth scrolling for internal section links."
